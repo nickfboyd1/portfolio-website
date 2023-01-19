@@ -1,0 +1,17 @@
+---
+title: "About Me"
+image: profile.jpg
+about: 
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/nickfboyd/
+    - icon: github
+      text: Github
+      href: https://github.com/nickfboyd1
+---
+
+Welcome to my portfolio! I'm a data analyst currently seeking remote work opportunities in the climate industry. I have over 4 years of experience spanning data analytics, consulting, and business operations.
+
+I use this site to post summaries of my latest side projects and learnings. Feel free to connect with me on LinkedIn and let me know what you think.
